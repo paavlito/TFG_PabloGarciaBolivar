@@ -1,0 +1,24 @@
+Diccionario Generico
+"
+"
+Policy Number,12345-67-89
+Name Insured,Jane Smith
+Effective Date,01/01/2019 12:01 AM
+Premium,3797.60
+Address,1234 Main St
+Limit,$250K each person/$800K each incident
+"
+"
+"
+"
+Diccionario Especifico
+"
+"
+Model,N/A
+Principal Driver,N/A
+Comprehensive Deductible,3500
+Collision Deductible,"$1,000"
+Bodily Injury,$250K each person/$800K each incident
+Property Damage,$100K each incident
+Medical Coverage,"$5,000 each person"
+Uninsured Motorist Bodily Injury,$250K each person/$500K each incident
